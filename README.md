@@ -1,10 +1,19 @@
 # app-dev
-My first repository :>
+⚠️My first repository :>
 
-**My favorite series would be Prison Break**
-some anime series include *Naruto* and *One Piece:P*
+## :pill: **Re:LIFE**
+![image](https://images.squarespace-cdn.com/content/v1/5ccabcf60b77bdbb3acaf70a/1584259048405-HSTXTANDE4FXVJICYL55/b6fa1afff1671f2a927dfd65b8eb0582.jpg?format=1000w)
+*A young man, failing at life, is offered a new start as a 10 years younger high-school student.* [^1]
 
-## Top 5 of my favorite Anime
+| **Info** | **Details** |
+| ----------- | ----------- |
+| **Year** | 2016-2018 |
+| **Creator** | Sou Yayoi |
+| **Genre** | Anime Coming-of-Age, Seinen, Slice of Life, Teen Drama, RomCom| 
+| **Ratings** | :star: **7.8**/10 |
+
+some anime series i like include *Naruto* and *One Piece:P*
+# Top 5 of my favorite Anime
 1. One Piece
 2. Naruto
 3. ReLIFE
@@ -12,37 +21,8 @@ some anime series include *Naruto* and *One Piece:P*
 
 Anyways, just click [this](https://open.spotify.com/user/whi5r4pcgftq4jvtphehrm2vh?si=b613d3321c8d4a93) if you want to check out my Spotify Account haha
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+- [x] Play Games
+- [x] Working Out
+- [x] Eating
 
-```
-{
-  "firstName": "Domingo",
-  "lastName": "Mark",
-  "age": 20
-}
-```
-
-Here's a sentence with a footnote. [^1]
-
-### My Great Heading {#custom-id}
-
-term
-: definition
-
-~~The world is flat.~~
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-That is so funny! :joy:
-
-I need to highlight these ==very important words==.
-
-H~2~O
-
-X^2^
 [^1]: This is the footnote.
